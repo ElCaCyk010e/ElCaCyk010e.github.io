@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	「Hello world!」的评论	</title>
-	<atom:link href="./feed/index.html" rel="self" type="application/rss+xml" />
-	<link>./../1/index.html</link>
+	「Lilia &#039;home」的评论	</title>
+	<atom:link href="https://elcacyk010e.github.io/comments/feed" rel="self" type="application/rss+xml" />
+	<link>https://elcacyk010e.github.io/</link>
 	<description>「雨夜萤光，灯火辉煌」</description>
 	<lastBuildDate>Wed, 28 May 2025 07:23:36 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,12 +19,12 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 	<item>
 		<title>
-		评论者：A WordPress Commenter		</title>
-		<link>./../1/index.html#comment-1</link>
+		A WordPress Commenter 对《 Hello world! 》的评论		</title>
+		<link>https://elcacyk010e.github.io/archives/1#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Wed, 28 May 2025 07:23:36 +0000</pubDate>
-		<guid isPermaLink="false">./../../index.html?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://elcacyk010e.github.io/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
