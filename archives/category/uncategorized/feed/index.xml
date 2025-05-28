@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Lilia &#039;home</title>
+	<title>Uncategorized &#8211; Lilia &#039;home</title>
 	<atom:link href="./feed/index.html" rel="self" type="application/rss+xml" />
-	<link>./index.html</link>
+	<link>./../../../index.html</link>
 	<description>「雨夜萤光，灯火辉煌」</description>
 	<lastBuildDate>Wed, 28 May 2025 07:23:36 +0000</lastBuildDate>
 	<language>zh-Hans</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>./archives/1/index.html</link>
-					<comments>./archives/1/index.html#comments</comments>
+		<link>./../../1/index.html</link>
+					<comments>./../../1/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[Elina Suzuran Lilia Cecilia]]></dc:creator>
 		<pubDate>Wed, 28 May 2025 07:23:36 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">./index.html?p=1</guid>
+		<guid isPermaLink="false">./../../../index.html?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or  [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./archives/1/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>./../../1/feed/index.html</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
